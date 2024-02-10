@@ -30,7 +30,7 @@ You must download prolog to execute the Tic-Tac-Toe program. VS Code is recommen
 PDDL planner for solving the Mu Toorere task problem instances.
 
 ## Links
-Prolog:  https://www.swi-prolog.org/download/stable  
+Download Prolog:  https://www.swi-prolog.org/download/stable  
 Online PDDL editor:  https://editor.planning.domains/  
 Mu Toorere Rules and online game:  https://www.heihei.nz/game/165/m%C5%AB-t%C5%8Drere  
 
