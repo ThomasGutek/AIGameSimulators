@@ -1,4 +1,5 @@
 # AI Game Simulators
+Short collection of two artificial players playing a two player game
 
 ## Overview
 This repository contains two programs related to AI simulation: one for a Tic-Tac-Toe game and the other for a task involving player movement on a game board. The Tic-Tac-Toe program is implemented in Prolog using PDDL (Planning Domain Definition Language), while the second program is a task simulation defined using PDDL.
