@@ -11,9 +11,9 @@ The Tic-Tac-Toe program is implemented in Prolog and utilizes PDDL for defining 
 The Mu Toorere task simulation is defined using PDDL and represents a scenario where players move pieces on a game board according to specific rules. The task involves players taking turns to move pieces either to outer positions or to a central position based on certain conditions. The goal of the simulation is to achieve a specific arrangement of pieces on the game board.
 
 ## Repository Structure
-tictactoe.pl: Prolog file containing the implementation of the Tic-Tac-Toe game.
-mu_toorere_domain.pddl: PDDL file defining the domain and problem instances
-mu_toorere_task.pddl: PDDl file defining the available actions and Mu Toorere task simulation.
+tictactoe.pl: Prolog file containing the implementation of the Tic-Tac-Toe game.  
+mu_toorere_domain.pddl: PDDL file defining the domain and problem instances  
+mu_toorere_task.pddl: PDDl file defining the available actions and Mu Toorere task simulation.  
 
 ## Usage
 ### Tic-Tac-Toe Program:
@@ -30,7 +30,7 @@ You must download prolog to execute the Tic-Tac-Toe program. VS Code is recommen
 PDDL planner for solving the Mu Toorere task problem instances.
 
 ## Links
-Prolog:  https://www.swi-prolog.org/download/stable
-Online PDDL editor:  https://editor.planning.domains/
-Mu Toorere Rules and online game:  https://www.heihei.nz/game/165/m%C5%AB-t%C5%8Drere
+Prolog:  https://www.swi-prolog.org/download/stable  
+Online PDDL editor:  https://editor.planning.domains/  
+Mu Toorere Rules and online game:  https://www.heihei.nz/game/165/m%C5%AB-t%C5%8Drere  
 
